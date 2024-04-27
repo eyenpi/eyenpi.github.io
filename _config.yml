@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ali Nabipour Homepage"
+title                    : "Ali Nabipour"
 title_separator          : "-"
 name                     : &name "Ali Nabipour"
 description              : &description "personal description" # TODO
@@ -43,7 +43,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "eyenpi"
-  kaggle           : "eyenpi"  
+  kaggle           :   
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
