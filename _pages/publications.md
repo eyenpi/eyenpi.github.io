@@ -3,14 +3,8 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+redirect_from:
+- /Publications
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>Nabipour, A</b>, Shams, M, Boreshban, Y, Mirroshandel, S. A, <b>	Less-Supervised Learning with Knowledge Distillation for Sperm Morphology Analysis</b>, <i>Computer Methods in Biomechanics and Biomedical Engineering: Imaging \& Visualization</i>, 2024.
