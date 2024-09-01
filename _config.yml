@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Ali Nabipour"
   pronouns         : # example: "she/her"  
-  bio              : "CS Graduate Student at Polimi"
-  location         : "Tehran, Iran"
-  employer         : # TODO
+  bio              : "CS Graduate Student"
+  location         : "Milan, Italy"
+  employer         : "Politecnico di Milano"
   uri              : # URL
   email            : "ali.nabipour@mail.polimi.it"
 
